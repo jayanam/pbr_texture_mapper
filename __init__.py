@@ -3,7 +3,7 @@ bl_info = {
     "description": "Map image nodes from tools like Substance Painter to principled shader",
     "author": "Jayanam",
     "version": (0, 9, 0, 0),
-    "blender": (2, 79, 0),
+    "blender": (2, 80, 0),
     "location": "NodeEditor",
     "category": "Object"}
 
