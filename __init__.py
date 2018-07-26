@@ -5,7 +5,7 @@ bl_info = {
     "version": (0, 9, 0, 0),
     "blender": (2, 80, 0),
     "location": "NodeEditor",
-    "category": "Object"}
+    "category": "Material"}
 
 # Blender imports
 import bpy
