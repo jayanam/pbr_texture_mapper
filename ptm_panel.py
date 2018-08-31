@@ -25,7 +25,7 @@ class PTM_Panel(Panel):
         
         # Alignment (4 columns)
         row = layout.row()
-        split = row.split(0.2)
+        split = row.split(factor=0.2)
         
         col = split.column()
         col.operator('object.ptm_align_op', text="←", icon="NODE").align = 0
