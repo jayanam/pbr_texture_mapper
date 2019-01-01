@@ -2,7 +2,7 @@ bl_info = {
     "name": "PBR Texture Mapper",
     "description": "Map image nodes from tools like Substance Painter to principled shader",
     "author": "Jayanam",
-    "version": (0, 9, 0, 2),
+    "version": (0, 9, 0, 3),
     "blender": (2, 80, 0),
     "location": "NodeEditor",
     "category": "Material"}
